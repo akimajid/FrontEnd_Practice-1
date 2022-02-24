@@ -116,6 +116,16 @@
     line-height: 16px;
 }
 
+.photo {
+    position: absolute;
+    width: 535px;
+    height: 738px;
+    left: 20px;
+    top: 29px;
+}
+
+
+
 
 
 
