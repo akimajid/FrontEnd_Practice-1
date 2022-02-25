@@ -120,6 +120,10 @@
     line-height: 16px;
 }
 
+.button:hover {
+    cursor: pointer;
+}
+
 .photo {
     position: absolute;
     width: 535px;
